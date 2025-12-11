@@ -2,9 +2,8 @@
 
 ### A passionate Computer Science & Engineering Undergraduate from University of Moratuwa
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Isara-Li&label=Profile views&color=0e75b6&style=flat" alt="Isara-Li" /> </p>
 
-- 🌱 I'm currently learning ** Data Science and Engineering**
+- 🌱 I'm currently learning **Data Science and Engineering**
 
 - 📫 How to reach me **liyanageisara@gmail.com**
 
